@@ -1,4 +1,6 @@
 ## [View Live Site](https://tinder-clone-yogesh.herokuapp.com/)
+![tinder](https://user-images.githubusercontent.com/87793885/146218290-525a0207-8c33-41f0-a315-185bf8fbd28f.PNG)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

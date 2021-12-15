@@ -9,7 +9,7 @@ const Header = () => {
             <IconButton>
              <PersonIcon fontSize="large" className="header_icon"/>
             </IconButton>
-            <img className="header_logo" src="https://cdn-icons.flaticon.com/png/512/4401/premium/4401438.png?token=exp=1639505027~hmac=4e678eaa39958ea1b2b602edfbfaacb7" alt="None"/>
+            <img className="header_logo" src="https://pics.freeicons.io/uploads/icons/png/3137331471557996975-512.png" alt="None"/>
             <IconButton>
              <ForumIcon fontSize="large" className="header_icon"/>
             </IconButton>

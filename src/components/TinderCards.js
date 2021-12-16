@@ -4,7 +4,7 @@ import './tindercards.css'
 const TinderCards = () => {
     const [person, setPerson] = useState([])
     const getNotes = async () => {
-        const response = await fetch("http://localhost:8001/tinder/cards", {
+        const response = await fetch("https://tinder-backend-yogesh.herokuapp.com/tinder/cards", {
           method: "GET",
           headers: {
             "Content-Type": "application/json",
